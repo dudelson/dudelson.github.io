@@ -113,6 +113,12 @@ section {
 #copy-status {
     font-size: 14px;
 }
+#id-identicon {
+    height: 90px;
+}
+#site-identicon {
+    height: 90px;
+}
 
 
 
